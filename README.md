@@ -13,6 +13,9 @@ This repository contains tailored outreach materials for a Roland Future Design 
 - `ganic-project-overview.md`
   Public-safe overview of my contribution to the GANIC project, focused on graphic design, product input, and testing rather than model development.
 
+- `ai_music_tooling_summary.md`
+  Short attachment-style summary of the AI and music-tooling work most relevant to Roland Future Design Lab outreach.
+
 ## Positioning
 
 The materials in this repo are designed to present a background that combines:
