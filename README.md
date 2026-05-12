@@ -10,7 +10,7 @@ This repository contains tailored outreach materials for a Roland Future Design 
 - `roland_future_design_lab_cv.md`
   One-page CV tailored toward AI-assisted music tools, product tooling, and Roland Future Design Lab style work.
 
-- `ganic_contribution_readme.md`
+- `ganic-project-overview.md`
   Public-safe overview of my contribution to the GANIC project, focused on graphic design, product input, and testing rather than model development.
 
 ## Positioning
